@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "obscureobsidian:items/helpericons/up_arrow"
+	}
+}

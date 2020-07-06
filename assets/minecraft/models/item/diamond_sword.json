@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/diamond_sword"
+    },
+	"overrides":[
+		{
+			"predicate": 
+			{
+				"damage": 0.000640614990391
+			},
+			"model":"obscureobsidian:item/test"
+		}
+	]
+}
