@@ -2,3 +2,7 @@ item.slimeball.name=Muk Juice
 item.yellowDust.name= Bright Powder
 item.dyePowder.brown.name=Coconut
 item.rottenFlesh.name=Zubat Brains
+
+tile.sapling.acacia.name=Morning Glory
+tile.sapling.big_oak.name=Petunias
+tile.sapling.jungle.name=Lavender
