@@ -1,0 +1,8 @@
+{
+    "variants": { 
+        "normal": [ { "model": "grass_path" },
+		  { "model": "grass_path1" },
+     		  { "model": "grass_path2" }
+		  ]
+    }
+}

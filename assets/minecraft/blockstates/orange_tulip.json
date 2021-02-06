@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": [ { "model": "orange_tulip" },
+		{ "model": "orange_tulip1" },
+		{ "model": "orange_tulip2" } ]
+    }
+}
