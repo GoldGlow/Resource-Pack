@@ -8,6 +8,10 @@ item.chorusFruit.name=Chorus Fruit Candy
 item.chorusFruitPopped.name=Empty Chorus Candy
 item.shears.name=Scizor Shears
 item.magmaCream.name=Magmar Cream
+item.quiver.name=Volcarona Quiver
+item.totem.name=Undying Totem of Xerneas
+item.compass.name=Sunose Compass
+item.spiderEye.name=Galvantula Eye
 
 tile.sapling.acacia.name=Morning Glory
 tile.sapling.big_oak.name=Petunias
